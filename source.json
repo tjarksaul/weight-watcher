@@ -1,0 +1,46 @@
+{
+  "name": "Tjark's Source",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://appfel.dev",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "dev.appfel.Weight-Watcher"
+  ],
+  "apps": [
+    {
+      "name": "Weight Watcher",
+      "bundleIdentifier": "dev.appfel.Weight-Watcher",
+      "developerName": "Tjark Saul",
+      "subtitle": "Weight Watcher",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/tjarksaul/weight-watcher/releases/download/v1.0/WeightWatcher.ipa",
+          "size": 38000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-12-05T14:51:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.healthkit.access"
+        ],
+        "privacy": {
+          "NSHealthShareUsageDescription": "Ich brauche Zugriff, damit es Zugriff gibt"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}

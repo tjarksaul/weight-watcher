@@ -4,7 +4,6 @@
   "description": "",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://appfel.dev",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "dev.appfel.Weight-Watcher"
@@ -38,8 +37,7 @@
         "privacy": {
           "NSHealthShareUsageDescription": "Ich brauche Zugriff, damit es Zugriff gibt"
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
